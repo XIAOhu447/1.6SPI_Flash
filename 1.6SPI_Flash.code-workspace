@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../DebugConfig"
+		},
+		{
+			"path": "../Hardware"
+		},
+		{
+			"path": "../Library"
+		},
+		{
+			"path": "../Listings"
+		},
+		{
+			"path": "../Objects"
+		},
+		{
+			"path": "../Software"
+		},
+		{
+			"path": "../Start"
+		},
+		{
+			"path": "../System"
+		},
+		{
+			"path": "../User"
+		},
+		{
+			"path": "../.vscode"
+		}
+	],
+	"settings": {}
+}
